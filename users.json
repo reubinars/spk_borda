@@ -1,0 +1,36 @@
+{
+    "Admin": {
+        "password": "password_admin",
+        "role": "admin"
+    },
+    "HRD1": {
+        "username": "HRD1",
+        "password": "password_hrd",
+        "role": "regular",
+        "votes": {
+            "Pelamar 1": null,
+            "Pelamar 2": null,
+            "Pelamar 3": null
+        }
+    },
+    "HRD2": {
+        "username": "HRD2",
+        "password": "password_hrd",
+        "role": "regular",
+        "votes": {
+            "Pelamar 1": null,
+            "Pelamar 2": null,
+            "Pelamar 3": null
+        }
+    },
+    "HRD3": {
+        "username": "HRD3",
+        "password": "password_hrd",
+        "role": "regular",
+        "votes": {
+            "Pelamar 1": null,
+            "Pelamar 2": null,
+            "Pelamar 3": null
+        }
+    }
+}
